@@ -1,2 +1,1 @@
-Name: Polar
-Learning Python
+
